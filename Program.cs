@@ -5,14 +5,15 @@ namespace program;
 
 class Program
 {
-    public static void Main(string[] args)
-    {
-        SayaTubeVideo = new SayaTubeVideo("judul", 0);
-        for(int i = 0; i < 220; i++)
-        {
-            video.IncrementPlayCount(10000000);
-            video.IncrementPlayCount(25000000);
-
-        }
-    }
+    SayaTubeVideo = new SayaTubeVideo("Review Film <judul_film> oleh <nama_praktikan>");
+    SayaTubeVideo = new SayaTubeVideo("Review Film A oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film B oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film C oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film D oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film E oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film F oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film G oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film H oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film I oleh Aufa")
+    SayaTubeVideo = new SayaTubeVideo("Review Film J oleh Aufa")
 }
